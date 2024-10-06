@@ -1,0 +1,14 @@
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\bin\Debug\net8.0\ConsoleApp1_6.exe
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\bin\Debug\net8.0\ConsoleApp1_6.deps.json
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\bin\Debug\net8.0\ConsoleApp1_6.runtimeconfig.json
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\bin\Debug\net8.0\ConsoleApp1_6.dll
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\bin\Debug\net8.0\ConsoleApp1_6.pdb
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\obj\Debug\net8.0\ConsoleApp1_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\obj\Debug\net8.0\ConsoleApp1_6.AssemblyInfoInputs.cache
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\obj\Debug\net8.0\ConsoleApp1_6.AssemblyInfo.cs
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\obj\Debug\net8.0\ConsoleApp1_6.csproj.CoreCompileInputs.cache
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\obj\Debug\net8.0\ConsoleApp1_6.dll
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\obj\Debug\net8.0\refint\ConsoleApp1_6.dll
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\obj\Debug\net8.0\ConsoleApp1_6.pdb
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\obj\Debug\net8.0\ConsoleApp1_6.genruntimeconfig.cache
+D:\C#\Лена\ConsoleApp1_6\ConsoleApp1_6\obj\Debug\net8.0\ref\ConsoleApp1_6.dll
